@@ -15,6 +15,6 @@ Ni behöver **inte**:
 
 Länk till Figma-skiss finns [här](https://www.figma.com/file/ZYWkmQTW5XFMAHXuSAAOaqFQ/Insurance-grid?node-id=0%3A1)
 
-Inlämning sker via Github och Learnpoint. Ladda upp ert projekt på Github (på en gruppmedlems Github-konto). Gå sedan in på Learnpoint och under innehåll finns det en inlämningsuppgift där ska ni ska posta er länk till gruppmedlemmens repo.
+Inlämning sker via Learnpoint. Zippa ert projekt (följande namnkonvention **ska** följas för godkänt: person1person2.zip) och ladda upp det under inlämningen i Learnpoint. Klicka sedan på "Lämna in". Ni behöver bara lämna in en fil per grupp.
 
-Inlämning senast: **31/1 23:59**
+Inlämning senast: **18/9 23:59**
