@@ -13,7 +13,7 @@ Ni behöver **inte**:
 * göra sidan responsiv utan enbart göra den för desktop 
 * ha några animationer eller liknande
 
-Länk till Figma-skiss finns [här](https://www.figma.com/file/ZYWkmQTW5XFMAHXuSAAOaqFQ/Insurance-grid?node-id=0%3A1)
+Länk till Figma-skiss finns [här](https://www.figma.com/file/Yf7z7Ssm2dGPiv7iDNgakS/Insurance-grid-Copy?node-id=0%3A1)
 
 Inlämning sker via Learnpoint. Zippa ert projekt (följande namnkonvention **ska** följas för godkänt: person1person2.zip) och ladda upp det under inlämningen i Learnpoint. Klicka sedan på "Lämna in". Ni behöver bara lämna in en fil per grupp.
 
